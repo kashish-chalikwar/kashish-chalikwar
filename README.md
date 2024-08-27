@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Web-Development.
 - 💞️ I’m looking to collaborate on some projects.
 - 📫 How to reach me kashishchalikwar@gmail.com.
-- ⚡ Fun fact: I'm B-Tech Student.
+- ⚡ Fun fact: I'm a B-Tech Student.
 
 <!---
 kashish-chalikwar/kashish-chalikwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
