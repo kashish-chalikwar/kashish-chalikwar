@@ -2,7 +2,7 @@
 - 👀 I’m interested in Anything related to what I'm learning.
 - 🌱 I’m currently learning Full Stack Web-Development.
 - 💞️ I’m looking to collaborate on some projects.
-- 📫 How to reach me kashishchalikwar@gmail.com.
+- 📫 How to reach me kashishchalikwar.14@gmail.com.
 - ⚡ Fun fact: I'm a B-Tech Student.
 
 <!---
